@@ -1,8 +1,5 @@
-# React + Vite
+# QUEST - React Básico
+Essa é uma proposta de projeto do curso Devemdobro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descrição
+Esse projeto tem como objetivo utilizar JS e React para transformar a cor de um texto e deixá-lo em letra maiuscula. Al'me disso, foi solicitado que existe um botão que ao clicar exibisse um alerta com o label dele. 
